@@ -18,3 +18,21 @@ To run this project, you will need the following:
 
    ```bash
    git clone https://github.com/Ruhadaam/super-heroes-versus.git
+
+   ### Usage
+
+1. Download the project files to your computer or clone this repository:
+
+ Visit SuperHeroAPI and obtain an access token.
+
+Open the script.js file in the src directory and insert your access token:
+
+```javascript
+const token = "WRITE_YOUR_ACCESS_TOKEN_HERE";
+}
+```
+
+Choose two superheroes you want to compare.
+
+Click the "Versus" button to compare the abilities of superheroes.
+

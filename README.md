@@ -18,8 +18,8 @@ To run this project, you will need the following:
 
    ```bash
    git clone https://github.com/Ruhadaam/super-heroes-versus.git
-
-   ### Usage
+   ```
+### Usage
 
 1. Download the project files to your computer or clone this repository:
 
